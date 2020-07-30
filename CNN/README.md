@@ -9,3 +9,6 @@
 3. 資料來源：以手機拍照生活中的汽車 LOGO
 
 4. 檔案介紹：
+  Folder_CarLogoModel -- Folder__carlogomap
+                      -- Folder__predictPIC
+                      -- File__car_train.h5
