@@ -1,0 +1,12 @@
+benz 139         (1-139
+bmw 8            (140-147
+ford 23          (148-170
+honda 143        (171-313
+lansus 161       (314-474
+luxgan 6         (475-480
+mazda 114        (481-594
+mitsubishi 146   (595-740
+nissan 20        (741-760
+suzuki 61        (761-821
+toyota 177       (822-998
+volkswagen 87    (999-1085
