@@ -9,6 +9,17 @@
 3. 資料來源：以手機拍照生活中的汽車 LOGO
 
 4. 檔案介紹：
-  Folder_CarLogoModel  <p>Folder__carlogomap </p>
-                       <p>Folder__predictPIC </p>
-                       <p>File__car_train.h5 </p>
+    <p>Folder__carlogomap </p>
+    <p>Folder__predictPIC </p>
+    <p>File__car_train.h5 </p>
+    <p>File__carlogo.csv </p>
+    <p>File__carlogosample.csv </p>
+    <p>File__carlogotest.csv</p>
+    <p>File__submission.csv </p>
+    <p>File__cardataset.py </p>
+    <p>File__cartrain.py </p>
+    <p>File__carpredict.py </p>
+    <p>File__wepredict.py </p>
+    <p>File__carnum.txt </p>
+    
+5. 
