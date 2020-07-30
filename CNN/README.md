@@ -22,4 +22,4 @@
     <p>File__wepredict.py </p>
     <p>File__carnum.txt </p>
     
-5. <img href = "accuracy.png">
+5. <img src = "accuracy.png">
